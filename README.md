@@ -6,7 +6,7 @@ Honeybrook Coworking invites you to be a member in a new coworking space located
 
 -    A light and airy space filled with coworkers (who are not your co-workers).
 -    Limited number of permanent desks and temporary desks are available. 
--    Commercial EC Fiber (NNN Mbits/sec) connection. 
+-    Commercial EC Fiber (300 Mbits/sec) connection. 
 -    First Branch Coffee.
 -    Bookable conference room.
 -    24/7 access for permanent desks.
