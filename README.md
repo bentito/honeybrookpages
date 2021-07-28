@@ -15,3 +15,5 @@ Honeybrook Coworking invites you to be a member in a new coworking space located
 -    To clearly separate work and home life.
 -    A place to meet with clients.
 -    Learning and growth opportunities.
+
+If you are interested in taking a tour, please email us at: honeybrook.space@gmail.com
